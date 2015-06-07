@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nanodegree Portfolio</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="headline">Udacity Android Nanodegree Apps</string>
+
+    <!-- toast messages -->
+    <string name="spotify_msg">This button will launch my Spotify Streaming app!</string>
+    <string name="scores_msg">This button will launch my Scores app!</string>
+    <string name="library_msg">This button will launch my Library app!</string>
+    <string name="build_bigger_msg">This button will launch my Build it Bigger app!</string>
+    <string name="xyz_reader_msg">This button will launch my XYZ Reader app!</string>
+    <string name="capstone_msg">This button will launch my Android Nanodegree capstone app!</string>
+</resources>
